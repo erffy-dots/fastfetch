@@ -7,4 +7,4 @@ bash -c "bash <(curl -sL https://raw.githubusercontent.com/erffy-dots/fastfetch/
 ```
 
 ### Screenshots
-![](assets/ff.png)
+![](https://raw.githubusercontent.com/erffy-dots/.generic/main/assets/fastfetch.png)
