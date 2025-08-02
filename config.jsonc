@@ -19,48 +19,48 @@
     {
       "type": "os",
       "format": "{name}",
-      "key": "    OS",
+      "key": "  OS",
       "keyColor": "blue"
     },
     {
       "type": "kernel",
       "format": "{release}",
-      "key": "    Kernel",
+      "key": "  Kernel",
       "keyColor": "blue"
     },
     {
       "type": "packages",
-      "key": "    Packages",
+      "key": "  Packages",
       "keyColor": "blue"
     },
     {
       "type": "uptime",
       "format": "{hours}h, {minutes}m",
-      "key": "    Uptime",
+      "key": "  Uptime",
       "keyColor": "blue"
     },
     {
       "type": "de",
-      "format": "{pretty-name} ({version})",
-      "key": "    DE",
+      "format": "{pretty-name} {version}",
+      "key": "  DE",
       "keyColor": "blue"
     },
     {
       "type": "wm",
-      "format": "{pretty-name} ({version})",
-      "key": "    WM",
+      "format": "{pretty-name} {version}",
+      "key": "  WM",
       "keyColor": "blue"
     },
     {
       "type": "locale",
       "format": "{result}",
-      "key": "    Locale",
+      "key": "  Locale",
       "keyColor": "blue"
     },
     {
       "type": "users",
       "format": "{name}",
-      "key": "    User",
+      "key": "  User",
       "keyColor": "blue"
     }
   ]
